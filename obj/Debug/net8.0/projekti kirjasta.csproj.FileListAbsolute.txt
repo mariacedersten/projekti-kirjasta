@@ -1,0 +1,14 @@
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/bin/Debug/net8.0/projekti kirjasta
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/bin/Debug/net8.0/projekti kirjasta.deps.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/bin/Debug/net8.0/projekti kirjasta.runtimeconfig.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/bin/Debug/net8.0/projekti kirjasta.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/bin/Debug/net8.0/projekti kirjasta.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.AssemblyInfoInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.AssemblyInfo.cs
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.csproj.CoreCompileInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/refint/projekti kirjasta.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/projekti kirjasta.genruntimeconfig.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/projekti kirjasta/obj/Debug/net8.0/ref/projekti kirjasta.dll
